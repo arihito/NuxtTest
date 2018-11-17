@@ -10,6 +10,9 @@
       3回クリックしたよ！
     </div>
     <nuxt-link 
+      to="/" 
+      class="button--green">TOP</nuxt-link>
+    <nuxt-link 
       to="/about" 
       class="button--green">ABOUT</nuxt-link>
     <nuxt-link 
